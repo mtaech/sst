@@ -1,0 +1,320 @@
+{
+  "remarks": "Cyanmori",
+  "status": "剩余流量：133.74GB.♥.过期时间：2024-02-26",
+  "servers": [
+    {
+      "name": "Cyanmori - 香港 01 ",
+      "server": "acc.xiyun.co",
+      "server_port": 10031,
+      "password": "LRxpcwLakCjMvzga",
+      "method": "chacha20-ietf-poly1305",
+      "mode": "tcp_and_udp"
+    },
+    {
+      "name": "Cyanmori - 香港02",
+      "server": "acc.xiyun.co",
+      "server_port": 10032,
+      "password": "LRxpcwLakCjMvzga",
+      "method": "chacha20-ietf-poly1305",
+      "mode": "tcp_and_udp"
+    },
+    {
+      "name": "Cyanmori - 香港03",
+      "server": "acc.xiyun.co",
+      "server_port": 12345,
+      "password": "LRxpcwLakCjMvzga",
+      "method": "chacha20-ietf-poly1305",
+      "mode": "tcp_and_udp"
+    },
+    {
+      "name": "Cyanmori - 香港04",
+      "server": "acc.xiyun.co",
+      "server_port": 10033,
+      "password": "LRxpcwLakCjMvzga",
+      "method": "chacha20-ietf-poly1305",
+      "mode": "tcp_and_udp"
+    },
+    {
+      "name": "Cyanmori - 香港05",
+      "server": "acc.xiyun.co",
+      "server_port": 10034,
+      "password": "LRxpcwLakCjMvzga",
+      "method": "chacha20-ietf-poly1305",
+      "mode": "tcp_and_udp"
+    },
+    {
+      "name": "Cyanmori - 香港06",
+      "server": "acc.xiyun.co",
+      "server_port": 10035,
+      "password": "LRxpcwLakCjMvzga",
+      "method": "chacha20-ietf-poly1305",
+      "mode": "tcp_and_udp"
+    },
+    {
+      "name": "Cyanmori - 香港07",
+      "server": "acc.xiyun.co",
+      "server_port": 10072,
+      "password": "LRxpcwLakCjMvzga",
+      "method": "chacha20-ietf-poly1305",
+      "mode": "tcp_and_udp"
+    },
+    {
+      "name": "Cyanmori - 香港08",
+      "server": "acc.xiyun.co",
+      "server_port": 10074,
+      "password": "LRxpcwLakCjMvzga",
+      "method": "chacha20-ietf-poly1305",
+      "mode": "tcp_and_udp"
+    },
+    {
+      "name": "Cyanmori - 日本01",
+      "server": "bcc.xiyun.co",
+      "server_port": 10037,
+      "password": "LRxpcwLakCjMvzga",
+      "method": "chacha20-ietf-poly1305",
+      "mode": "tcp_and_udp"
+    },
+    {
+      "name": "Cyanmori - 日本02",
+      "server": "bcc.xiyun.co",
+      "server_port": 10038,
+      "password": "LRxpcwLakCjMvzga",
+      "method": "chacha20-ietf-poly1305",
+      "mode": "tcp_and_udp"
+    },
+    {
+      "name": "Cyanmori - 日本03",
+      "server": "bcc.xiyun.co",
+      "server_port": 10039,
+      "password": "LRxpcwLakCjMvzga",
+      "method": "chacha20-ietf-poly1305",
+      "mode": "tcp_and_udp"
+    },
+    {
+      "name": "Cyanmori - 日本04",
+      "server": "bcc.xiyun.co",
+      "server_port": 10058,
+      "password": "LRxpcwLakCjMvzga",
+      "method": "chacha20-ietf-poly1305",
+      "mode": "tcp_and_udp"
+    },
+    {
+      "name": "Cyanmori - 台湾01",
+      "server": "acc.xiyun.co",
+      "server_port": 10036,
+      "password": "LRxpcwLakCjMvzga",
+      "method": "chacha20-ietf-poly1305",
+      "mode": "tcp_and_udp"
+    },
+    {
+      "name": "Cyanmori - 台湾02",
+      "server": "acc.xiyun.co",
+      "server_port": 10064,
+      "password": "LRxpcwLakCjMvzga",
+      "method": "chacha20-ietf-poly1305",
+      "mode": "tcp_and_udp"
+    },
+    {
+      "name": "Cyanmori - 台湾03",
+      "server": "acc.xiyun.co",
+      "server_port": 10073,
+      "password": "LRxpcwLakCjMvzga",
+      "method": "chacha20-ietf-poly1305",
+      "mode": "tcp_and_udp"
+    },
+    {
+      "name": "Cyanmori - 台湾04",
+      "server": "acc.xiyun.co",
+      "server_port": 10077,
+      "password": "LRxpcwLakCjMvzga",
+      "method": "chacha20-ietf-poly1305",
+      "mode": "tcp_and_udp"
+    },
+    {
+      "name": "Cyanmori - 新加坡01",
+      "server": "bcc.xiyun.co",
+      "server_port": 10044,
+      "password": "LRxpcwLakCjMvzga",
+      "method": "chacha20-ietf-poly1305",
+      "mode": "tcp_and_udp"
+    },
+    {
+      "name": "Cyanmori - 新加坡02",
+      "server": "bcc.xiyun.co",
+      "server_port": 10045,
+      "password": "LRxpcwLakCjMvzga",
+      "method": "chacha20-ietf-poly1305",
+      "mode": "tcp_and_udp"
+    },
+    {
+      "name": "Cyanmori - 新加坡03",
+      "server": "bcc.xiyun.co",
+      "server_port": 10046,
+      "password": "LRxpcwLakCjMvzga",
+      "method": "chacha20-ietf-poly1305",
+      "mode": "tcp_and_udp"
+    },
+    {
+      "name": "Cyanmori - 新加坡04",
+      "server": "bcc.xiyun.co",
+      "server_port": 10068,
+      "password": "LRxpcwLakCjMvzga",
+      "method": "chacha20-ietf-poly1305",
+      "mode": "tcp_and_udp"
+    },
+    {
+      "name": "Cyanmori - 美国01",
+      "server": "bcc.xiyun.co",
+      "server_port": 10040,
+      "password": "LRxpcwLakCjMvzga",
+      "method": "chacha20-ietf-poly1305",
+      "mode": "tcp_and_udp"
+    },
+    {
+      "name": "Cyanmori - 美国02",
+      "server": "bcc.xiyun.co",
+      "server_port": 10041,
+      "password": "LRxpcwLakCjMvzga",
+      "method": "chacha20-ietf-poly1305",
+      "mode": "tcp_and_udp"
+    },
+    {
+      "name": "Cyanmori - 美国03",
+      "server": "bcc.xiyun.co",
+      "server_port": 10042,
+      "password": "LRxpcwLakCjMvzga",
+      "method": "chacha20-ietf-poly1305",
+      "mode": "tcp_and_udp"
+    },
+    {
+      "name": "Cyanmori - 美国04",
+      "server": "bcc.xiyun.co",
+      "server_port": 10043,
+      "password": "LRxpcwLakCjMvzga",
+      "method": "chacha20-ietf-poly1305",
+      "mode": "tcp_and_udp"
+    },
+    {
+      "name": "Cyanmori - 美国05",
+      "server": "bcc.xiyun.co",
+      "server_port": 10067,
+      "password": "LRxpcwLakCjMvzga",
+      "method": "chacha20-ietf-poly1305",
+      "mode": "tcp_and_udp"
+    },
+    {
+      "name": "Cyanmori - 美国06",
+      "server": "bcc.xiyun.co",
+      "server_port": 20036,
+      "password": "LRxpcwLakCjMvzga",
+      "method": "chacha20-ietf-poly1305",
+      "mode": "tcp_and_udp"
+    },
+    {
+      "name": "Cyanmori - 美国07",
+      "server": "bcc.xiyun.co",
+      "server_port": 10075,
+      "password": "LRxpcwLakCjMvzga",
+      "method": "chacha20-ietf-poly1305",
+      "mode": "tcp_and_udp"
+    },
+    {
+      "name": "Cyanmori - 印度01",
+      "server": "bcc.xiyun.co",
+      "server_port": 10050,
+      "password": "LRxpcwLakCjMvzga",
+      "method": "chacha20-ietf-poly1305",
+      "mode": "tcp_and_udp"
+    },
+    {
+      "name": "Cyanmori - 印度02",
+      "server": "bcc.xiyun.co",
+      "server_port": 10051,
+      "password": "LRxpcwLakCjMvzga",
+      "method": "chacha20-ietf-poly1305",
+      "mode": "tcp_and_udp"
+    },
+    {
+      "name": "Cyanmori - 韩国01",
+      "server": "acc.xiyun.co",
+      "server_port": 10047,
+      "password": "LRxpcwLakCjMvzga",
+      "method": "chacha20-ietf-poly1305",
+      "mode": "tcp_and_udp"
+    },
+    {
+      "name": "Cyanmori - 韩国02",
+      "server": "acc.xiyun.co",
+      "server_port": 10048,
+      "password": "LRxpcwLakCjMvzga",
+      "method": "chacha20-ietf-poly1305",
+      "mode": "tcp_and_udp"
+    },
+    {
+      "name": "Cyanmori - 英国01",
+      "server": "bcc.xiyun.co",
+      "server_port": 10052,
+      "password": "LRxpcwLakCjMvzga",
+      "method": "chacha20-ietf-poly1305",
+      "mode": "tcp_and_udp"
+    },
+    {
+      "name": "Cyanmori - 英国02",
+      "server": "bcc.xiyun.co",
+      "server_port": 10053,
+      "password": "LRxpcwLakCjMvzga",
+      "method": "chacha20-ietf-poly1305",
+      "mode": "tcp_and_udp"
+    },
+    {
+      "name": "Cyanmori - 德国柏林01",
+      "server": "bcc.xiyun.co",
+      "server_port": 10069,
+      "password": "LRxpcwLakCjMvzga",
+      "method": "chacha20-ietf-poly1305",
+      "mode": "tcp_and_udp"
+    },
+    {
+      "name": "Cyanmori - 法国",
+      "server": "bcc.xiyun.co",
+      "server_port": 10076,
+      "password": "LRxpcwLakCjMvzga",
+      "method": "chacha20-ietf-poly1305",
+      "mode": "tcp_and_udp"
+    },
+    {
+      "name": "Cyanmori - 澳大利亚01",
+      "server": "bcc.xiyun.co",
+      "server_port": 10055,
+      "password": "LRxpcwLakCjMvzga",
+      "method": "chacha20-ietf-poly1305",
+      "mode": "tcp_and_udp"
+    },
+    {
+      "name": "Cyanmori - 澳大利亚02",
+      "server": "bcc.xiyun.co",
+      "server_port": 10054,
+      "password": "LRxpcwLakCjMvzga",
+      "method": "chacha20-ietf-poly1305",
+      "mode": "tcp_and_udp"
+    },
+    {
+      "name": "Cyanmori - 迪拜01",
+      "server": "bcc.xiyun.co",
+      "server_port": 10056,
+      "password": "LRxpcwLakCjMvzga",
+      "method": "chacha20-ietf-poly1305",
+      "mode": "tcp_and_udp"
+    },
+    {
+      "name": "Cyanmori - 迪拜02",
+      "server": "bcc.xiyun.co",
+      "server_port": 10057,
+      "password": "LRxpcwLakCjMvzga",
+      "method": "chacha20-ietf-poly1305",
+      "mode": "tcp_and_udp"
+    }
+  ],
+  "local_address": "127.0.0.1",
+  "local_port": 1080
+}
