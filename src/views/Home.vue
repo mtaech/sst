@@ -11,34 +11,33 @@
   </div>
 </template>
 
-<script setup>
+<script setup lang="ts">
 import {ref} from "vue";
-import {dataDir} from "@tauri-apps/api/path";
 import {invoke} from "@tauri-apps/api/tauri";
+import {Profile, Resp, Server} from "src/models/index.ts";
 
-const  url = ref("");
-const profile = ref({});
+const profile = ref<Profile>();
 const activeName = ref('')
 function getList() {
-  invoke("get_profile_list").then(resp=>{
+  invoke<Resp<Profile[]>>("get_profile_list").then(resp=>{
     console.log("log",resp)
     if (resp && resp.data) {
       profile.value  = resp.data[0]
     }
   })
 }
-function addProfile() {
-  url.value = "https://api.fanss.vip/link/hVnsnzkzql24t9nA?list=shadowrocket";
-  if (url.value) {
-    invoke("add_profile",{url:url.value}).then(resp=>{
-      console.log('add pro',resp)
-      if (resp && resp.data) {
-        profile.value  = resp.data[0]
-      }
-    })
-  }
-}
-function exe_server(server) {
+// function addProfile() {
+//   url.value = "https://api.fanss.vip/link/hVnsnzkzql24t9nA?list=shadowrocket";
+//   if (url.value) {
+//     invoke("add_profile",{url:url.value}).then(resp=>{
+//       console.log('add pro',resp)
+//       if (resp && resp.data) {
+//         profile.value  = resp.data[0]
+//       }
+//     })
+//   }
+// }
+function exe_server(server:Server) {
   activeName.value = server.name
   invoke("exe_server",{server:server}).then(resp=>{
     console.log('resp',resp)

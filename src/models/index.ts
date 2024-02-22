@@ -1,22 +1,22 @@
-export interface Resp<T> {
+export type Resp<T> = {
     code: number,
     msg: string | null,
     data: T | null
 }
 
-export interface Profile {
+export type Profile ={
     name: String,
     sub_url: String,
     sub: Sub,
 }
 
-export interface Sub {
+export type Sub ={
     remarks: string,
     status: string,
     servers: Server[] | null,
 }
 
- export interface Server {
+ export type Server ={
     name: string,
     server: String,
     server_port: number,
